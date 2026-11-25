@@ -1,0 +1,7 @@
+build.log
+*.log
+*.tar.xz
+*.tar.gz
+src/
+repo/
+upstream/
